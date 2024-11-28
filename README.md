@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SERGIOHERJON
 - 👀 I’m interested in Frutiger Aero GUIs
-- 🌱 I’m currently learning MySQL7c++/java/cisco netacad
+- 🌱 I’m currently learning MySQL7/c++/java/cisco netacad
 - 📫 How to reach me ...
 - ⚡ Fun fact: I like skateboarding
 
